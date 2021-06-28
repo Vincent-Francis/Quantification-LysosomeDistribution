@@ -12,7 +12,6 @@ import subprocess as sp
 from skimage.morphology import convex_hull_image
 import scipy.misc
 import datetime
-import matplotlib.pyplot as plt
 import scipy.io as sio
 
 def euclidDist(center,pint):
