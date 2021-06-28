@@ -1,4 +1,4 @@
-# packages in environment at C:\Users\sethu\AppData\Local\conda\conda\envs\py27:
+# packages in environment at conda\conda\envs\py27:
 #
 # Name                    Version                   Build  Channel
 attrs                     19.3.0                     py_0  
