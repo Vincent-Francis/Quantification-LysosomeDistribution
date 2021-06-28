@@ -16,7 +16,7 @@ Change the folder path variables in the script.py file.
 
 Change other correponding variables. 
 
-## python script.py 
+Run 'python script.py' 
 
 Input values pertinent to the analysis when prompted.
 
