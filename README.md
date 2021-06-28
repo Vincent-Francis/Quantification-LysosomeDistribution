@@ -41,3 +41,6 @@ K. Jarrod Millman and Michael Aivazis. Python for Scientists and Engineers, Comp
 
 Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.
 
+Anaconda Software Distribution. (2020). Anaconda Documentation. Anaconda Inc. Retrieved from https://docs.anaconda.com/
+
+
