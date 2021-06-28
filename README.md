@@ -38,3 +38,6 @@ Stéfan van der Walt, Johannes L. Schönberger, Juan Nunez-Iglesias, François B
 Travis E. Oliphant. Python for Scientific Computing, Computing in Science & Engineering, 9, 10-20 (2007), DOI:10.1109/MCSE.2007.58. 
 
 K. Jarrod Millman and Michael Aivazis. Python for Scientists and Engineers, Computing in Science & Engineering, 13, 9-12 (2011), DOI:10.1109/MCSE.2011.36.
+
+Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.
+
